@@ -16,4 +16,3 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 
-![Image 1](https://github.com/beklevicRidvan/Flutter-Design-Clones/blob/main/DisneyClone/assets/babydady.jpg?raw=true)
