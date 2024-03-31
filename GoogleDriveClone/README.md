@@ -1,16 +1,15 @@
-# tasarimi_kolaylastiracak_ornek
+# Google Drive Clone Projesi
 
-A new Flutter project.
+## Google Drive Clone Ekran Görüntüleri
 
-## Getting Started
+| Resim 1 | Resim 2 | Resim 3 |
+|---------|---------|---------|
+| ![Resim 1](https://github.com/beklevicRidvan/Flutter-Design-Clones/blob/main/GoogleDriveClone/drive_assets/drive1.png?raw=true) | ![Resim 2](https://github.com/beklevicRidvan/Flutter-Design-Clones/blob/main/GoogleDriveClone/drive_assets/drive2.png?raw=true) | ![Resim 3](https://github.com/beklevicRidvan/Flutter-Design-Clones/blob/main/GoogleDriveClone/drive_assets/drive3.png?raw=true) |
 
-This project is a starting point for a Flutter application.
+| Resim 4 | Resim 5 | Resim 6 |
+|---------|---------|---------|
+| ![Resim 4](https://github.com/beklevicRidvan/Flutter-Design-Clones/blob/main/GoogleDriveClone/drive_assets/drive4.png?raw=true) | ![Resim 5](https://github.com/beklevicRidvan/Flutter-Design-Clones/blob/main/GoogleDriveClone/drive_assets/drive5.png?raw=true) | ![Resim 6](https://github.com/beklevicRidvan/Flutter-Design-Clones/blob/main/GoogleDriveClone/drive_assets/drive6.png?raw=true) |
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| Resim 7 | Resim 8 | Resim 9 |
+|---------|---------|---------|
+| ![Resim 7](https://github.com/beklevicRidvan/Flutter-Design-Clones/blob/main/GoogleDriveClone/drive_assets/drive7.png?raw=true) | ![Resim 8](https://github.com/beklevicRidvan/Flutter-Design-Clones/blob/main/GoogleDriveClone/drive_assets/drive8.png?raw=true) | ![Resim 9](https://github.com/beklevicRidvan/Flutter-Design-Clones/blob/main/GoogleDriveClone/drive_assets/drive9.png?raw=true) |
