@@ -1,18 +1,13 @@
-# bootcamp3_odev
+# Disney Clone Projesi
 
-A new Flutter project.
+## Disney Clone Ekran Görüntüleri
 
-## Getting Started
+| Resim 1 | Resim 2 | Resim 3 |
+|---------|---------|---------|
+| ![Resim 1](https://github.com/beklevicRidvan/Flutter-Design-Clones/blob/main/DisneyClone/disney_assets/disney1.png?raw=true) | ![Resim 2](https://github.com/beklevicRidvan/Flutter-Design-Clones/blob/main/DisneyClone/disney_assets/disney2.png?raw=true) | ![Resim 3](https://github.com/beklevicRidvan/Flutter-Design-Clones/blob/main/DisneyClone/disney_assets/disney3.png?raw=true) |
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| Resim 4 | Resim 5 |
+|---------|---------|
+| ![Resim 4](https://github.com/beklevicRidvan/Flutter-Design-Clones/blob/main/DisneyClone/disney_assets/disney4.png?raw=true) | ![Resim 5](https://github.com/beklevicRidvan/Flutter-Design-Clones/blob/main/DisneyClone/disney_assets/disney5.png?raw=true) |
 
 
